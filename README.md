@@ -194,8 +194,6 @@ Bank-Customer-Churn-Analysis-Using-Python/
 └── README.md
 ```
 
-*Update the notebook filename in this structure if your actual file has a different name.*
-
 ## Author
 
 **Maathangi P**
